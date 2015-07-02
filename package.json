@@ -1,0 +1,36 @@
+{
+  "name": "crypto-rc4",
+  "description": "Javascript library for simple crypting with RC4 key sharing data over internet",
+  "version": "1.0",
+  "keywords": [
+    "crypto",
+    "assymetric",
+    "encryption",
+    "decryption",
+    "sign",
+    "verify"
+  ],
+  "maintainers": [
+    {
+      "name": "Deniss Perepelicins",
+      "email": "piranyad@gmail.com",
+      "web": "https://github.com/execmd/"
+    }
+  ],
+  "bugs": {
+    "web": "https://github.com/execmd/crypto-rc4/issues"
+  },
+  "repositories": [
+    {
+      "type": "git",
+      "url": "git@github.com:execmd/crypto-rc4.git"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "MIT",
+      "url": "https://github.com/execmd/crypto-rc4/blob/master/LICENSE"
+    }
+  ],
+  "homepage": "https://github.com/execmd/crypto-rc4"
+}
