@@ -35,5 +35,8 @@
   "homepage": "https://github.com/execmd/crypto-rc4",
   "dependencies": {
     "node-rsa": "^0.2.24"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec --bail"
   }
 }
