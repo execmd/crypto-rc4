@@ -1,7 +1,7 @@
 {
   "name": "crypto-rc4",
   "description": "Javascript library for simple crypting with RC4 key sharing data over internet",
-  "version": "1.0",
+  "version": "v1.0.0",
   "keywords": [
     "crypto",
     "assymetric",
@@ -32,5 +32,8 @@
       "url": "https://github.com/execmd/crypto-rc4/blob/master/LICENSE"
     }
   ],
-  "homepage": "https://github.com/execmd/crypto-rc4"
+  "homepage": "https://github.com/execmd/crypto-rc4",
+  "dependencies": {
+    "node-rsa": "^0.2.24"
+  }
 }
